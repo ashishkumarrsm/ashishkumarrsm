@@ -1,133 +1,44 @@
-# <div align="center">👋 Hi, I'm Ashish Kumar</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ashishkumarrsm/ashishkumarrsm/main/assets/banner.gif" alt="Ashish Kumar - Frontend Developer" width="600"/>
-  <h3>A passionate frontend developer from India</h3>
-</div>
+<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
+<h3 align="center">A passionate frontend developer from India<br>
+  Professional Vibe: 🚀 Full-Stack Web Developer<br>
+  | Turning Ideas into Scalable Solutions Creative Vibe: 💻 Crafting Pixels to Programs <br>
+  | Full-Stack Developer 🚀 Minimal and Clean: Full-Stack Developer <br>
+  | JavaScript <br>
+  | React <br>
+  | Node.js <br>
+  | MongoDB Energetic & Passionate: 👨‍💻 Full-Stack Developer<br>
+  | Building the Web, One Line of Code at a Time Resume-like: Full-Stack Developer<br>
+  | MERN Stack | Open Source Contributor <br>
+  | Lifelong Learner Tech Focused: MERN Stack Enthusiast <br>
+  | API Architect <br>
+  | Cloud Explorer ☁️ Fun & Relatable: Coffee-fueled Full-Stack Developer ☕<br>
+  | Coding Dreams into Reality 💻</h3>
 
-<div align="center" target="_blanck">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://ashishkumarrsm.github.io/Portfolio/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishkumarrsm)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ashishkumar141199@gmail.com)
-  
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkumarrsm&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkumarrsm" /> </p>
 
-## 💻 What I'm Up To
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishkumarrsm" alt="ashishkumarrsm" /></a> </p>
 
-- 🔨 **Currently working on**: [To-Do List Application](https://ashishkumarrsm.github.io/TODO_Using_html_css_js/)
-- 📚 **Currently learning**: Angular, React, Node.js, and Express.js
-- 🤝 **Looking to collaborate on**: [Ultimate Music Player](https://ashishkumarrsm.github.io/Music-Player/)
-- 🔍 **Looking for help with**: [My Portfolio](https://ashishkumarrsm.github.io/Portfolio/)
-- 📂 **All projects**: [Check out my portfolio](https://ashishkumarrsm.github.io/Portfolio/)
-- 📧 **Reach me at**: Ashishkumar141199@gmail.com
+- 🔭 I’m currently working on CyberSolving [To-Do List Application](https://ashishkumarrsm.github.io/TODO_Using_html_css_js/)
 
-## 🚀 Featured Projects
+- 🌱 I’m currently learning advanced Full-Stack Web Development techniques, focusing on the MERN stack (MongoDB, Express.js, React, Node.js). I'm also exploring cloud computing (AWS, Vercel) and improving my skills in system design and scalable architecture **Angular,React,NodeJs,express js**
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">To-Do List Application</h3>
-      <div align="center">
-        <a href="https://github.com/ashishkumarrsm/TODO_Using_html_css_js" target="_blank"><img src="https://github.com/ashishkumarrsm/ashishkumarrsm/raw/main/assets/todo-app.png" width="400" alt="To-Do List App"/></a>
-        <p>
-          <a href="https://github.com/ashishkumarrsm/TODO_Using_html_css_js" target="_blank">
-            <img src="https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github"/>
-          </a>
-          <a href="https://ashishkumarrsm.github.io/TODO_Using_html_css_js/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=codepen"/>
-          </a>
-        </p>
-        <p>A simple yet effective to-do list app built with HTML, CSS, and JavaScript.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Ultimate Music Player</h3>
-      <div align="center">
-        <a href="https://github.com/ashishkumarrsm/Music-Player" target="_blank"><img src="https://github.com/ashishkumarrsm/ashishkumarrsm/raw/main/assets/music-player.png" width="400" alt="Music Player"/></a>
-        <p>
-          <a href="https://github.com/ashishkumarrsm/Music-Player" target="_blank">
-            <img src="https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github"/>
-          </a>
-          <a href="https://ashishkumarrsm.github.io/Music-Player/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=codepen"/>
-          </a>
-        </p>
-        <p>A feature-rich music player with a sleek interface built with modern web technologies.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Portfolio Website</h3>
-      <div align="center">
-        <a href="https://github.com/ashishkumarrsm/Portfolio" target="_blank"><img src="https://github.com/ashishkumarrsm/ashishkumarrsm/raw/main/assets/portfolio.png" width="400" alt="Portfolio"/></a>
-        <p>
-          <a href="https://github.com/ashishkumarrsm/Portfolio" target="_blank">
-            <img src="https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github"/>
-          </a>
-          <a href="https://ashishkumarrsm.github.io/Portfolio/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=codepen"/>
-          </a>
-        </p>
-        <p>My personal portfolio showcasing my projects and skills.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Blog Using Django</h3>
-      <div align="center">
-        <a href="https://github.com/ashishkumarrsm/Blog-Using-Django" target="_blank"><img src="https://github.com/ashishkumarrsm/ashishkumarrsm/raw/main/assets/django-blog.png" width="400" alt="Django Blog"/></a>
-        <p>
-          <a href="https://github.com/ashishkumarrsm/Blog-Using-Django" target="_blank">
-            <img src="https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github"/>
-          </a>
-        </p>
-        <p>A full-featured blog application developed with Django framework.</p>
-      </div>
-    </td>
-  </tr>
-</table>
+- 👯 I’m looking to collaborate on exciting Full-Stack Web Development projects, open-source contributions, and innovative ideas that make an impact. I'm particularly interested in MERN stack, API development, and building scalable applications. Let's create something amazing together! [Ultimate-Music-Player](https://ashishkumarrsm.github.io/Music-Player/)
 
-## 🛠️ Languages and Tools
+- 🤝 I’m looking for help with improving my skills in Full-Stack Web Development, contributing to open-source projects, and collaborating on real-world applications. I'm especially eager to learn best practices in React, Node.js, and cloud deployment. [Ashish Kumar's Portfolio](https://ashishkumarrsm.github.io/Portfolio/)
 
-<div align="center">
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  
-</div>
+- 👨‍💻 All of my projects, experiments, and case studies are available here: 👉 GitHub Profile 👉 My Portfolio [https://ashishkumarrsm.github.io/Portfolio/](https://ashishkumarrsm.github.io/Portfolio/)
 
-## 📊 GitHub Stats
+- 📫 How to reach me: Email: ashishkumar141199@gmail.com LinkedIn: Ashish Kumar GitHub: @ashishkumarrsm Twitter: @Ashi010702Kumar Portfolio Website: Visit My Portfolio **Ashishkumar141199@gmail.com**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumarrsm&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishkumarrsm&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkumarrsm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishkumarrsm&show_icons=true&locale=en&layout=compact" alt="ashishkumarrsm" /></p>
 
-<div align="center">
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ashishkumarrsm.ashishkumarrsm)
-  
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishkumarrsm&show_icons=true&locale=en" alt="ashishkumarrsm" /></p>
 
----
-
-<div align="center">
-  <i>⚡ Happy coding! ⚡</i>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkumarrsm&" alt="ashishkumarrsm" /></p>
