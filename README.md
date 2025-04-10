@@ -4,7 +4,7 @@
   <h3>A passionate frontend developer from India</h3>
 </div>
 
-<div align="center">
+<div align="center" target="_blanck">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://ashishkumarrsm.github.io/Portfolio/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishkumarrsm)
