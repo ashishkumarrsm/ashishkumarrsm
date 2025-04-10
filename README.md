@@ -1,108 +1,133 @@
-<style>
-  .demo-button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    transition: background-color 0.3s;
-  }
-  .demo-button:hover {
-    background-color: #0056b3;
-  }
-  .icon {
-    display: inline-block;
-    transition: transform 0.3s;
-  }
-  .icon:hover {
-    transform: scale(1.1);
-  }
-  .tools-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(50px, 1fr));
-    gap: 10px;
-  }
-  .tool-icon {
-    width: 40px;
-    height: 40px;
-    animation: fadeIn 0.5s ease-in;
-  }
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-</style>
+# <div align="center">👋 Hi, I'm Ashish Kumar</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ashishkumarrsm/ashishkumarrsm/main/assets/banner.gif" alt="Ashish Kumar - Frontend Developer" width="600"/>
+  <h3>A passionate frontend developer from India</h3>
+</div>
 
-<p align="center">
-  <a href="https://ashishkumarrsm.github.io/Portfolio/">
-    <img src="profile-banner.png" alt="Portfolio" width="600"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://ashishkumarrsm.github.io/Portfolio/" class="demo-button">Visit My Portfolio</a>
-</p>
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://ashishkumarrsm.github.io/Portfolio/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishkumarrsm)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ashishkumar141199@gmail.com)
+  
+</div>
 
-<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+## 💻 What I'm Up To
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/ashishkumarrsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishkumarrsm" height="30" width="40" /></a>
-</p>
+- 🔨 **Currently working on**: [To-Do List Application](https://ashishkumarrsm.github.io/TODO_Using_html_css_js/)
+- 📚 **Currently learning**: Angular, React, Node.js, and Express.js
+- 🤝 **Looking to collaborate on**: [Ultimate Music Player](https://ashishkumarrsm.github.io/Music-Player/)
+- 🔍 **Looking for help with**: [My Portfolio](https://ashishkumarrsm.github.io/Portfolio/)
+- 📂 **All projects**: [Check out my portfolio](https://ashishkumarrsm.github.io/Portfolio/)
+- 📧 **Reach me at**: Ashishkumar141199@gmail.com
 
----
+## 🚀 Featured Projects
 
-### What I'm Up To
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">To-Do List Application</h3>
+      <div align="center">
+        <a href="https://github.com/ashishkumarrsm/TODO_Using_html_css_js" target="_blank"><img src="https://github.com/ashishkumarrsm/ashishkumarrsm/raw/main/assets/todo-app.png" width="400" alt="To-Do List App"/></a>
+        <p>
+          <a href="https://github.com/ashishkumarrsm/TODO_Using_html_css_js" target="_blank">
+            <img src="https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://ashishkumarrsm.github.io/TODO_Using_html_css_js/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=codepen"/>
+          </a>
+        </p>
+        <p>A simple yet effective to-do list app built with HTML, CSS, and JavaScript.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Ultimate Music Player</h3>
+      <div align="center">
+        <a href="https://github.com/ashishkumarrsm/Music-Player" target="_blank"><img src="https://github.com/ashishkumarrsm/ashishkumarrsm/raw/main/assets/music-player.png" width="400" alt="Music Player"/></a>
+        <p>
+          <a href="https://github.com/ashishkumarrsm/Music-Player" target="_blank">
+            <img src="https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://ashishkumarrsm.github.io/Music-Player/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=codepen"/>
+          </a>
+        </p>
+        <p>A feature-rich music player with a sleek interface built with modern web technologies.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Portfolio Website</h3>
+      <div align="center">
+        <a href="https://github.com/ashishkumarrsm/Portfolio" target="_blank"><img src="https://github.com/ashishkumarrsm/ashishkumarrsm/raw/main/assets/portfolio.png" width="400" alt="Portfolio"/></a>
+        <p>
+          <a href="https://github.com/ashishkumarrsm/Portfolio" target="_blank">
+            <img src="https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://ashishkumarrsm.github.io/Portfolio/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=codepen"/>
+          </a>
+        </p>
+        <p>My personal portfolio showcasing my projects and skills.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Blog Using Django</h3>
+      <div align="center">
+        <a href="https://github.com/ashishkumarrsm/Blog-Using-Django" target="_blank"><img src="https://github.com/ashishkumarrsm/ashishkumarrsm/raw/main/assets/django-blog.png" width="400" alt="Django Blog"/></a>
+        <p>
+          <a href="https://github.com/ashishkumarrsm/Blog-Using-Django" target="_blank">
+            <img src="https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+        <p>A full-featured blog application developed with Django framework.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-- 🔭 **Currently working on**: [To-Do List Application](https://ashishkumarrsm.github.io/TODO_Using_html_css_js/)
-- 🌱 **Currently learning**:
-  <div class="icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/></div>
-  <div class="icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></div>
-  <div class="icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></div>
-  <div class="icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></div>
-- 👯 **Looking to collaborate on**: [Ultimate Music Player](https://ashishkumarrsm.github.io/Music-Player/)
-- 🤝 **Looking for help with**: [My Portfolio](https://ashishkumarrsm.github.io/Portfolio/)
-- 👨‍💻 **All projects**: [https://ashishkumarrsm.github.io/Portfolio/](https://ashishkumarrsm.github.io/Portfolio/)
-- 📫 **Reach me at**: **Ashishkumar141199@gmail.com**
+## 🛠️ Languages and Tools
 
----
+<div align="center">
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  
+</div>
 
-### Featured Projects
+## 📊 GitHub Stats
 
-Here are some of my top repositories:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumarrsm&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
-- **[To-Do List Application](https://github.com/ashishkumarrsm/TODO_Using_html_css_js)**: A simple yet effective to-do list app built with HTML, CSS, and JavaScript.
-  <a href="https://ashishkumarrsm.github.io/TODO_Using_html_css_js/" class="demo-button">Live Demo</a>
-- **[Ultimate Music Player](https://github.com/ashishkumarrsm/Music-Player)**: A feature-rich music player with a sleek interface.
-  <a href="https://ashishkumarrsm.github.io/Music-Player/" class="demo-button">Live Demo</a>
-- **[Portfolio](https://github.com/ashishkumarrsm/Portfolio)**: My personal portfolio showcasing my projects and skills.
-  <a href="https://ashishkumarrsm.github.io/Portfolio/" class="demo-button">Live Demo</a>
-- **[Blog Using Django](https://github.com/ashishkumarrsm/Blog-Using-Django)**: A blog application developed with Django.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishkumarrsm&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkumarrsm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-### Languages and Tools
-
-<div class="tools-grid">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" class="tool-icon"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" class="tool-icon"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" class="tool-icon"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" class="tool-icon"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" class="tool-icon"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" class="tool-icon"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" class="tool-icon"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" class="tool-icon"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" class="tool-icon"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" class="tool-icon"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" class="tool-icon"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" class="tool-icon"/>
+<div align="center">
+  
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ashishkumarrsm.ashishkumarrsm)
+  
 </div>
 
 ---
 
-### GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishkumarrsm&show_icons=true&locale=en&layout=compact" alt="ashishkumarrsm" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishkumarrsm&show_icons=true&locale=en" alt="ashishkumarrsm" /></p>
+<div align="center">
+  <i>⚡ Happy coding! ⚡</i>
+</div>
