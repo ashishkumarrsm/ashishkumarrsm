@@ -21,7 +21,7 @@
 
 ## 🚧 Current Focus
 
-- 🏗️ **Building:** [CyberSolving To-Do List](https://ashishkumarrsm.github.io/TODO_Using_html_css_js/) *(Responsive & Dynamic)*
+- 🏗️ **Building:** [AdToEarn](https://github.com/ashishkumarrsm/AdToEarn) *(Earn rewards by watching ads)*
 - 🌱 **Learning:** Advanced MERN stack, scalable system design
 - ☁️ **Exploring:** AWS & Vercel for cloud deployments
 - 🎵 **Featured:** [Ultimate Music Player](https://ashishkumarrsm.github.io/Music-Player/) *(Modern UI/UX & seamless playback)*
@@ -60,8 +60,8 @@
 
 | Project | Description | Link |
 | ------- | ----------- | ---- |
+| 💰 **AdToEarn** | Earn rewards by watching ads - Full-stack MERN application | [View Project](https://github.com/ashishkumarrsm/AdToEarn) |
 | 🎵 **Ultimate Music Player** | Modern, intuitive, and feature-rich music player | [View Project](https://ashishkumarrsm.github.io/Music-Player/) |
-| ✅ **CyberSolving To-Do List** | Responsive To-Do app with clean UI & smart task management | [View Project](https://ashishkumarrsm.github.io/TODO_Using_html_css_js/) |
 | 🌐 **Personal Portfolio** | My journey, skills, and projects in one sleek website | [View Project](https://ashishkumarrsm.github.io/Portfolio/) |
 
 ---
