@@ -66,17 +66,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Streak Journey
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashishkumarrsm&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumarrsm&layout=compact&theme=radical" height="170"/>
 </p>
 
+### 🔥 Contribution Streak Timeline
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkumarrsm&theme=radical"/>
 </p>
 
+<div align="center">
+  <h4>📅 My Coding Journey: Day 1 to Today</h4>
+  <p>
+    <b>🚀 From the Beginning:</b> Every single commit represents growth and dedication<br>
+    <b>💪 Current Streak:</b> Keep pushing to maintain the momentum!<br>
+    <b>📈 Total Contributions:</b> A testament to consistency and passion<br>
+    <b>🎯 Mission:</b> To write code that matters, every single day
+  </p>
+</div>
 
 ---
 
