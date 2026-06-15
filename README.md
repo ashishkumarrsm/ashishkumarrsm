@@ -76,16 +76,16 @@
 ### 🔥 Contribution Streak Timeline
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkumarrsm&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkumarrsm&theme=radical&date_format=j%20M%5B%20Y%5D"/>
 </p>
 
 <div align="center">
-  <h4>📅 My Coding Journey: Day 1 to Today</h4>
+  <h4>📅 My Coding Journey: From Beginning to Today</h4>
   <p>
-    <b>🚀 From the Beginning:</b> Every single commit represents growth and dedication<br>
-    <b>💪 Current Streak:</b> Keep pushing to maintain the momentum!<br>
-    <b>📈 Total Contributions:</b> A testament to consistency and passion<br>
-    <b>🎯 Mission:</b> To write code that matters, every single day
+    <b>🚀 Consistency Matters:</b> Every single commit represents dedication and growth<br>
+    <b>💪 Pushing Forward:</b> Striving to maintain momentum and improve daily<br>
+    <b>📈 All-Time Contributions:</b> A reflection of hard work and passion for coding<br>
+    <b>🎯 Mission:</b> To write meaningful code and contribute to awesome projects
   </p>
 </div>
 
