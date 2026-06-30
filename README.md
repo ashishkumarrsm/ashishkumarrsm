@@ -1,118 +1,258 @@
-<!-- Header with Profile Views & Socials -->
+<!-- ========================= HEADER ========================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Ashish%20Kumar&fontSize=40&fontAlign=50&fontColor=0000FF" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ashishkumarrsm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ashish%20Kumar&fontSize=45&fontAlignY=35&fontColor=ffffff"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
+
+<h3 align="center">
+A Passionate Full-Stack Developer | React.js Learner | MERN Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashishkumarrsm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   <a href="https://github.com/ashishkumarrsm?tab=followers">
-    <img src="https://img.shields.io/github/followers/ashishkumarrsm?label=Followers&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/ashishkumarrsm?label=Followers&style=social" alt="Followers"/>
   </a>
 </p>
 
 ---
 
-## 👋 About Me
+# 👨‍💻 About Me
 
-- 🚀 **Full-Stack Web Developer** | Coffee-fueled coder turning ideas into reality  
-- 💡 **Open Source Contributor:** MERN Stack | API Architect | Cloud Explorer  
-- 🎨 **Creative at Heart:** Crafting intuitive designs & seamless UIs  
-- 🇮🇳 Based in India
-
----
-
-## 🚧 Current Focus
-
-- 🏗️ **Building:** [AdToEarn](https://github.com/ashishkumarrsm/AdToEarn) *(Earn rewards by watching ads)*
-- 🌱 **Learning:** Advanced MERN stack, scalable system design
-- ☁️ **Exploring:** AWS & Vercel for cloud deployments
-- 🎵 **Featured:** [Ultimate Music Player](https://ashishkumarrsm.github.io/Music-Player/) *(Modern UI/UX & seamless playback)*
+- 💻 Full-Stack Web Developer from India 🇮🇳
+- 🌱 Currently learning **React.js from Scratch to Advanced**
+- 🚀 Building projects to strengthen my frontend and backend skills
+- 📚 Exploring modern JavaScript and React best practices
+- 🎯 Goal: Become an expert React & MERN Stack Developer
+- ⚡ I enjoy solving real-world problems through code
 
 ---
 
-## 🛠️ Tech Stack
+# 📚 My Current Journey
+
+I'm currently documenting my **React.js learning journey** publicly on GitHub.
+
+The goal is to learn React.js from **Beginner → Advanced** while building projects and maintaining clean, reusable code.
+
+### 📅 Learning Schedule
+
+> Since I work during weekdays, I can dedicate time to learning **only on weekends (Saturday & Sunday)**.
+
+Every weekend I upload:
+
+- 📖 Notes
+- 💻 Practice Code
+- 🚀 Mini Projects
+- 🎯 Assignments
+- 🧠 New Concepts
+
+---
+
+# 📈 React Learning Roadmap
+
+| Status | Topic |
+|--------|-------|
+| ✅ | JavaScript Fundamentals |
+| 🔄 | React Introduction |
+| ⬜ | JSX |
+| ⬜ | Components |
+| ⬜ | Props |
+| ⬜ | State |
+| ⬜ | Event Handling |
+| ⬜ | Conditional Rendering |
+| ⬜ | Forms |
+| ⬜ | useState |
+| ⬜ | useEffect |
+| ⬜ | Custom Hooks |
+| ⬜ | React Router |
+| ⬜ | API Integration |
+| ⬜ | Context API |
+| ⬜ | Redux Toolkit |
+| ⬜ | Authentication |
+| ⬜ | Performance Optimization |
+| ⬜ | Testing |
+| ⬜ | Deployment |
+| ⬜ | Advanced React |
+| ⬜ | Real-world Projects |
+
+---
+
+# 🚧 Currently Working On
+
+- ⚛️ Learning React.js
+- 📚 JavaScript Deep Dive
+- 🚀 Building React Projects
+- ☁️ Learning Deployment
+- 🎯 Improving Problem Solving
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <br/>
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <br/>
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <br/>
-  <!-- Cloud & Deployment -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <br/>
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
+</p>
+
+## Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+## Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+## Tools & IDE
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
+</p>
+
+## Currently Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react"/>
 </p>
 
 ---
 
-## ⭐ Featured Projects
+# 🚀 Featured Projects
 
 | Project | Description | Link |
-| ------- | ----------- | ---- |
-| 💰 **AdToEarn** | Earn rewards by watching ads - Full-stack MERN application | [View Project](https://github.com/ashishkumarrsm/AdToEarn) |
-| 🎵 **Ultimate Music Player** | Modern, intuitive, and feature-rich music player | [View Project](https://ashishkumarrsm.github.io/Music-Player/) |
-| 🌐 **Personal Portfolio** | My journey, skills, and projects in one sleek website | [View Project](https://ashishkumarrsm.github.io/Portfolio/) |
+|----------|-------------|------|
+| 💰 AdToEarn | MERN Stack Reward Platform | https://github.com/ashishkumarrsm/AdToEarn |
+| 🎵 Ultimate Music Player | Modern Music Player | https://ashishkumarrsm.github.io/Music-Player/ |
+| 🌐 Personal Portfolio | Portfolio Website | https://ashishkumarrsm.github.io/Portfolio/ |
 
 ---
 
-## 📊 GitHub Stats & Streak Journey
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishkumarrsm&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumarrsm&layout=compact&theme=radical" height="170"/>
-</p>
 
-### 🔥 Contribution Streak Timeline
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashishkumarrsm&show_icons=true&theme=radical"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkumarrsm&theme=radical&date_format=j%20M%5B%20Y%5D"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumarrsm&layout=compact&theme=radical"/>
 
-<div align="center">
-  <h4>📅 My Coding Journey: From Beginning to Today</h4>
-  <p>
-    <b>🚀 Consistency Matters:</b> Every single commit represents dedication and growth<br>
-    <b>💪 Pushing Forward:</b> Striving to maintain momentum and improve daily<br>
-    <b>📈 All-Time Contributions:</b> A reflection of hard work and passion for coding<br>
-    <b>🎯 Mission:</b> To write meaningful code and contribute to awesome projects
-  </p>
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:ashishkumar141199@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ashish-kumar-123456/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/Ashi010702Kumar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://ashishkumarrsm.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
 </p>
 
 ---
 
-## ⚡ Fun Facts
+# 🔥 GitHub Streak
 
-- ☕ Powered by coffee, driven by code  
-- 🌟 Advocate for clean, maintainable code  
-- 🚀 Always excited about new tech and frameworks  
-- 🎯 On a mission to make the web beautiful & functional
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkumarrsm&theme=radical"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkumarrsm&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ashishkumarrsm&theme=radical&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📅 Weekend React Journey
+
+| Week | Topic | Status |
+|------|-------|--------|
+| Week 1 | React Introduction | ✅ |
+| Week 2 | JSX | ⬜ |
+| Week 3 | Components | ⬜ |
+| Week 4 | Props | ⬜ |
+| Week 5 | State | ⬜ |
+| Week 6 | Hooks | ⬜ |
+| Week 7 | React Router | ⬜ |
+| Week 8 | API Integration | ⬜ |
+| Week 9 | Context API | ⬜ |
+| Week 10 | Redux Toolkit | ⬜ |
+| Week 11 | Authentication | ⬜ |
+| Week 12 | Final React Project | ⬜ |
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master JavaScript
+- 🔄 Learn React.js from Scratch to Advanced
+- ⬜ Build 20+ React Projects
+- ⬜ Learn Redux Toolkit
+- ⬜ Master API Integration
+- ⬜ Build Full Stack MERN Applications
+- ⬜ Learn AWS Basics
+- ⬜ Improve DSA
+- ⬜ Contribute to Open Source
+- ⬜ Land a Software Development Role
+
+---
+
+# 📬 Connect With Me
+
+<p align="center">
+
+<a href="mailto:ashishkumar141199@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/your-linkedin-profile">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/Ashi010702Kumar">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://ashishkumarrsm.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote I Live By
+
+<p align="center">
+
+> **"The expert in anything was once a beginner."**
+
+</p>
+
+---
+
+# ☕ Fun Facts
+
+- ☕ Coffee + Code = Happiness
+- 💙 React is my current learning journey
+- 📚 Weekend Learner
+- 🚀 Every weekend, one step closer to becoming a React Expert
+- 🎯 Consistency beats perfection
 
 ---
 
 <p align="center">
-  <b><i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i></b>
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
