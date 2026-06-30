@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"> -->
 </div>
 
 <br/>
@@ -195,8 +195,8 @@ A modern, responsive music player with a clean UI.
 <div align="center">
 
 <a href="https://github.com/ashishkumarrsm" title="Click to view full stats">
-<img src="https://github-readme-stats.vercel.app/api?username=ashishkumarrsm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=644EE5&icon_color=644EE5" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumarrsm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=644EE5" height="165"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ashishkumarrsm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=644EE5&icon_color=644EE5" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumarrsm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=644EE5" height="165"/> -->
 </a>
 
 <a href="https://github.com/ashishkumarrsm" title="Click to view contribution streak">
@@ -216,7 +216,7 @@ A modern, responsive music player with a clean UI.
 <div align="center">
 
 <a href="https://github.com/ashishkumarrsm" title="Click to view live trophy data on GitHub">
-<img src="https://github-profile-trophy.vercel.app/?username=ashishkumarrsm&theme=onedark&row=2&column=4" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=ashishkumarrsm&theme=onedark&row=2&column=4" /> -->
 </a>
 
 </div>
@@ -230,10 +230,10 @@ A modern, responsive music player with a clean UI.
 <div align="center">
 
 <a href="https://github.com/ashishkumarrsm" title="Click to view full profile">
-<img src="https://github-readme-stats.vercel.app/api?username=ashishkumarrsm&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=644EE5" width="48%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ashishkumarrsm&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=644EE5" width="48%"/> -->
 </a>
 <a href="https://github.com/ashishkumarrsm?tab=repositories" title="Click to view all repositories">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumarrsm&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=644EE5" width="48%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumarrsm&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=644EE5" width="48%"/> -->
 </a>
 
 </div>
@@ -260,7 +260,7 @@ https://github-readme-stats.vercel.app/api/pin/?username=ashishkumarrsm&repo=YOU
 
 **Visitor counter:**
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fashishkumarrsm&count_bg=%23644EE5&title_bg=%231F2937&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
+<!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fashishkumarrsm&count_bg=%23644EE5&title_bg=%231F2937&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/> -->
 
 **Joined GitHub since:**
 
